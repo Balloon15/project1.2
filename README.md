@@ -6,4 +6,4 @@ This is awesome project.
 =======
 ## Conflict
 >>>>>>> conflict
-New text in README.md after created conflict2 branch and pull request
+# New text in README.md after created conflict2 branch and pull request
